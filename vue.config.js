@@ -1,7 +1,7 @@
 
 const Timestamp = new Date().getTime();
 module.exports = {
-    outputDir: 'aiweb',
+    outputDir: 'docs',
     publicPath:'./',
     devServer: {
         proxy: {
